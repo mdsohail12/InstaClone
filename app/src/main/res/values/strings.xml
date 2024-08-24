@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Myfirstapp</string>
+    <string name="forgot_password_text"><u>forgot password?</u> </string>
+    <string name="log_in"><u>Log in</u></string>
+    <string name="Continue_as_text"><u>Continue as</u></string>
+    <string name="Sign_Up_text"><u>Sign Up.</u></string>
+
+
+</resources>
